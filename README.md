@@ -48,3 +48,18 @@ Software Desenvolvido para a Disciplina de MOO - Modelagem Orientada a Objeto - 
 
 - Library jar (iReport 6.0.5 / jCalendar-5.3 / )
 
+* Ambiente Utilizado *
+
+- Windows 7 Service Pack 1;
+
+- Netbeans 8.2.0 - IDE;
+
+- Eclipse Luna JEE - IDE;
+
+- UML Easy;
+
+- Icons8 - website;
+
+- Foi aproveitado a experiência ganha em outras linguagens e também na área de desing para a criação da logo do software:
+
+![grande](https://user-images.githubusercontent.com/19787756/50038591-ffa12500-0008-11e9-9b2c-f90ff342375a.jpg)
