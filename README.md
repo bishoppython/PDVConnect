@@ -60,6 +60,10 @@ Software Desenvolvido para a Disciplina de MOO - Modelagem Orientada a Objeto - 
 
 - Icons8 - website;
 
+- MySQL 5.7.11 - https://downloads.mysql.com/archives/installer/
+
+- iReport 3.0 - https://sourceforge.net/projects/ireport/files/iReport%20%28classic%29/iReport-3.0.0/
+
 - Foi aproveitado a experiência ganha em outras linguagens e também na área de desing para a criação da logo do software:
 
 ![grande](https://user-images.githubusercontent.com/19787756/50038591-ffa12500-0008-11e9-9b2c-f90ff342375a.jpg)
